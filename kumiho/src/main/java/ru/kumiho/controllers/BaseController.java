@@ -19,11 +19,6 @@ public class BaseController {
         return "index";
     }
 
-    @GetMapping("/home")
-    public String getIntro() {
-        return "intro";
-    }
-
     @PostMapping("/comment/create")
     public String createComment(Comment comment){
         commentService.saveComment(comment);

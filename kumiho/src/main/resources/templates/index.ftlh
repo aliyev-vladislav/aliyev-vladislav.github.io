@@ -21,8 +21,8 @@
 
     <!-- favicons
     ================================================== -->
-    <link href="static/images/favicon-32x-32.png" rel="icon">
-    <link href="static/images/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="images/favicon2.png" rel="icon">
+    <link href="images/favicon2.png" rel="apple-touch-icon">
 
 </head>
 
