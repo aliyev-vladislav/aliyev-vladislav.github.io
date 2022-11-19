@@ -21,10 +21,8 @@
 
     <!-- favicons
     ================================================== -->
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
+    <link href="static/images/favicon-32x-32.png" rel="icon">
+    <link href="static/images/apple-touch-icon.png" rel="apple-touch-icon">
 
 </head>
 
@@ -58,7 +56,7 @@
             <div class="row s-header__nav-wrap">
                 <nav class="s-header__nav">
                     <ul>
-                        <li><a class="smoothscroll" href="../home">Home</a></li>
+                        <li><a class="smoothscroll" href="#intro">Home</a></li>
                         <li><a class="smoothscroll" href="#about">About</a></li>
                         <li><a class="smoothscroll" href="#skills">Skills</a></li>
                         <li><a class="smoothscroll" href="#projects">Projects</a></li>
@@ -131,7 +129,7 @@
                             <p class="attention-getter" data-animate-el>
                                 My name is Vladislav Aliev,
                                 but people usually call me... Luther.<br>
-                                I'm 18 years old, now I live and study in St.Petersburg.<br>
+                                I'm 18 years old, now I live and study in St. Petersburg.<br>
                                 Considering the fact that I'm a student, I'm currently unemployed.<br>
                                 If everything goes well, I plan to move to Denmark in the future. <br>
                                 In my free time I love to read Korean Webtoons/Drama and just paint the town red.
